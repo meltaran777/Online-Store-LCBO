@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/favourite_action"
+        android:gravity="start"
+        android:icon="@drawable/ic_favourite_light"
+        android:title="Sort by"
+        app:showAsAction="always" />
+
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/open_product_list_action"
+        android:gravity="start"
+        android:icon="@drawable/ic_list"
+        android:title="Sort by"
+        app:showAsAction="always" />
+</menu>

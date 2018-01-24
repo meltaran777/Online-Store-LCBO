@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Catalog</string>
+    <string name="about">About</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_drawer_item">
+        <item>Stores</item>
+        <item>Favourite Stores</item>
+        <item>Product by categories</item>
+        <item>Product search with option</item>
+        <item>Shopping cart</item>
+    </string-array>
+    <string-array name="spinner_list_item_array">
+        <item>By price</item>
+        <item>By price reverse</item>
+        <item>By name</item>
+        <item>By name reverse</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
